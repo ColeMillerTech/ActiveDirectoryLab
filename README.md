@@ -13,7 +13,8 @@ info about lab
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
+- <b>Windows Server 2019</b>
 
 <h2>Lab Walkthrough:</h2>
 

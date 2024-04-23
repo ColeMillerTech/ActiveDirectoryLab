@@ -6,7 +6,7 @@ In this lab I use Oracle VM VirtualBox to create a Windows 2019 Server Virtual M
 <br />
 
 
-<h2>Languages and Programs Used</h2>
+<h2>Languages and Software Used</h2>
 
 - <b>PowerShell</b> 
 - <b>Oracle VM VirtualBox</b>

@@ -6,10 +6,10 @@ In this lab I use Oracle VM VirtualBox to create a Windows 2019 Server Virtual M
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Programs Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle VM VirtualBox</b>
 
 <h2>Environments Used </h2>
 

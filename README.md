@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-info about lab
+In this lab I use Oracle VM VirtualBox to create a Windows 2019 Server Virtual Machine and implement Active Directory. 
 <br />
 
 

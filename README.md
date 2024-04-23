@@ -2,8 +2,7 @@
 
 
 <h2>Description</h2>
-In this lab I use Oracle VM VirtualBox to create a Windows 2019 Server Virtual Machine and implement Active Directory. 
-<br />
+In this lab I use Oracle VM VirtualBox to create a Windows 2019 Server Virtual Machine (The controller) and implement Active Directory and also create a windows 10 virtual machine (the client) and connect the two via a internal network. After configuring both the controller and the client VM I will be using a powershell script to create 1000 user accounts within the active directory.<br />
 
 
 <h2>Languages and Software Used</h2>

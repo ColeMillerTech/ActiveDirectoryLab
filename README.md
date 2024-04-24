@@ -8,12 +8,12 @@ In this lab, I utilize Oracle VM VirtualBox to establish a Windows 2019 Server V
 <h2>Languages and Software Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Oracle VM VirtualBox</b>
+- <b>[Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b>
-- <b>Windows Server 2019</b>
+- <b>[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)</b>
+- <b>[Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)</b>
 
 <h2>Lab Walkthrough:</h2>
 
